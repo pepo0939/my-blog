@@ -1,0 +1,24 @@
+.postList {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.postItem {
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.postTitle {
+  margin: 0 0 10px 0;
+  color: blue;
+}
+
+.postImage {
+  margin-bottom: 10px;
+}
+
+.postSummary {
+  color: #333;
+}

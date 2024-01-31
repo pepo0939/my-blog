@@ -1,0 +1,25 @@
+.container {
+  padding: 0 2rem;
+  font-family: 'Arial', sans-serif;
+}
+
+.title {
+  margin: 0;
+  line-height: 1.15;
+  font-size: 4rem;
+}
+
+.postList {
+  list-style: none;
+  padding: 0;
+}
+
+.postPreview {
+  margin: 1rem 0;
+}
+
+.postLink {
+  color: blue;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
